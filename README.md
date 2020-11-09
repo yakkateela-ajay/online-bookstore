@@ -2,31 +2,32 @@
 Admin Have Following Access for this online store site:-
 
 
-Add New Books
+    Add New Books
 
-View Books Available
+    View Books Available
 
-Remove Books
+    Remove Books
 
-Increase Books Amount
+    Increase Books Amount
 
 Users Have Following Access for this online store site:-
 
-Create New Account or Register
+    Create New Account or Register
 
-Login
+    Login
 
-View Available Books
+    View Available Books
 
-Select Books to Buy
+    Select Books to Buy
 
-Select Books Quantity
+    Select Books Quantity
 
-Buy Books
+    Buy Books
 
 Technologies used:-
 
-Back-End Development
-Java
-JDBC
+ Back-End Development
+    Java
+    
+    JDBC
 
